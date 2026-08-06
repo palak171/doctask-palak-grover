@@ -1,0 +1,17 @@
+# Optional. The default dev/test path needs none of this — see README "Why
+# SQLite by default". Bring this up only if you want the Postgres + pgvector
+# retrieval backend for production-scale document piles.
+services:
+  postgres:
+    image: pgvector/pgvector:pg16
+    environment:
+      POSTGRES_USER: docpile
+      POSTGRES_PASSWORD: docpile
+      POSTGRES_DB: docpile
+    ports:
+      - "5432:5432"
+    volumes:
+      - docpile_pg_data:/var/lib/postgresql/data
+
+volumes:
+  docpile_pg_data:
