@@ -1,0 +1,62 @@
+[
+  {
+    "topic": "contract-contradiction-checklist",
+    "session_id": "growth-contract-contradiction-checklist-8ad901",
+    "stages": [
+      {
+        "stage": "draft",
+        "seconds": 12.2,
+        "ops_charged": 1,
+        "monthly_remaining": 500
+      },
+      {
+        "stage": "compliance",
+        "seconds": 27.4,
+        "edits_approved": 0,
+        "edits_rejected": 0
+      }
+    ],
+    "output_file": "C:\\Users\\TI\\Downloads\\rb\\doctask-palak-grover\\growth-machine\\outputs\\batch1\\contract-contradiction-checklist.html",
+    "total_seconds": 40.2
+  },
+  {
+    "topic": "renewal-notice-period-conflicts",
+    "session_id": "growth-renewal-notice-period-conflicts-d36de2",
+    "stages": [
+      {
+        "stage": "draft",
+        "seconds": 22.2,
+        "ops_charged": 1,
+        "monthly_remaining": 500
+      },
+      {
+        "stage": "compliance",
+        "seconds": 25.0,
+        "edits_approved": 0,
+        "edits_rejected": 0
+      }
+    ],
+    "output_file": "C:\\Users\\TI\\Downloads\\rb\\doctask-palak-grover\\growth-machine\\outputs\\batch1\\renewal-notice-period-conflicts.html",
+    "total_seconds": 47.7
+  },
+  {
+    "topic": "legal-ops-contract-audit-before-renewal",
+    "session_id": "growth-legal-ops-contract-audit-before-renewal-c68192",
+    "stages": [
+      {
+        "stage": "draft",
+        "seconds": 10.8,
+        "ops_charged": 1,
+        "monthly_remaining": 500
+      },
+      {
+        "stage": "compliance",
+        "seconds": 15.9,
+        "edits_approved": 0,
+        "edits_rejected": 0
+      }
+    ],
+    "output_file": "C:\\Users\\TI\\Downloads\\rb\\doctask-palak-grover\\growth-machine\\outputs\\batch1\\legal-ops-contract-audit-before-renewal.html",
+    "total_seconds": 27.2
+  }
+]

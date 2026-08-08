@@ -1,0 +1,18 @@
+[project]
+name = "growth-machine"
+version = "0.1.0"
+description = "A content/search machine that finds a legal-ops audience's real pain-point queries and drafts, reviews, and exports publish-ready content on SuperDocs — built for SuperDocs Round 2, Growth Task 1."
+requires-python = ">=3.11"
+dependencies = [
+    "httpx>=0.27",
+    "python-dotenv>=1.0",
+]
+
+[project.optional-dependencies]
+dev = [
+    "pytest>=8.2",
+    "respx>=0.21",
+]
+
+[tool.pytest.ini_options]
+pythonpath = ["."]

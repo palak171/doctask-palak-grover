@@ -1,0 +1,62 @@
+[
+  {
+    "topic": "ai-redlining-tools-in-house-counsel",
+    "session_id": "growth-ai-redlining-tools-in-house-counsel-2151ee",
+    "stages": [
+      {
+        "stage": "draft",
+        "seconds": 28.8,
+        "ops_charged": 1,
+        "monthly_remaining": 500
+      },
+      {
+        "stage": "compliance",
+        "seconds": 49.4,
+        "edits_approved": 5,
+        "edits_rejected": 0
+      }
+    ],
+    "output_file": "C:\\Users\\TI\\Downloads\\rb\\doctask-palak-grover\\growth-machine\\outputs\\batch2\\ai-redlining-tools-in-house-counsel.html",
+    "total_seconds": 79.0
+  },
+  {
+    "topic": "clause-library-drift-audit",
+    "session_id": "growth-clause-library-drift-audit-2fb2fa",
+    "stages": [
+      {
+        "stage": "draft",
+        "seconds": 17.9,
+        "ops_charged": 1,
+        "monthly_remaining": 500
+      },
+      {
+        "stage": "compliance",
+        "seconds": 20.9,
+        "edits_approved": 0,
+        "edits_rejected": 0
+      }
+    ],
+    "output_file": "C:\\Users\\TI\\Downloads\\rb\\doctask-palak-grover\\growth-machine\\outputs\\batch2\\clause-library-drift-audit.html",
+    "total_seconds": 39.3
+  },
+  {
+    "topic": "human-in-the-loop-contract-review-ai",
+    "session_id": "growth-human-in-the-loop-contract-review-ai-d70b7a",
+    "stages": [
+      {
+        "stage": "draft",
+        "seconds": 9.5,
+        "ops_charged": 1,
+        "monthly_remaining": 500
+      },
+      {
+        "stage": "compliance",
+        "seconds": 25.3,
+        "edits_approved": 0,
+        "edits_rejected": 0
+      }
+    ],
+    "output_file": "C:\\Users\\TI\\Downloads\\rb\\doctask-palak-grover\\growth-machine\\outputs\\batch2\\human-in-the-loop-contract-review-ai.html",
+    "total_seconds": 35.2
+  }
+]
